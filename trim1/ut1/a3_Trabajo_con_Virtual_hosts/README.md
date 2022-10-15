@@ -10,7 +10,7 @@
 
 ![image](https://github.com/christianjmx/imw_christian/blob/main/trim1/ut1/a3_Trabajo_con_Virtual_hosts/web%201/2.png)
 
-- Creamo el enlace simbólico.
+- Creamos el enlace simbólico.
 
 ![image](https://github.com/christianjmx/imw_christian/blob/main/trim1/ut1/a3_Trabajo_con_Virtual_hosts/web%201/3.png)
 
