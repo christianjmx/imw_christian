@@ -104,7 +104,7 @@
 
 ![image](https://github.com/christianjmx/imw_christian/blob/main/trim1/ut1/a3_Trabajo_con_Virtual_hosts/web%203/3.png)
 
-- Creamos el directorio de la página web y el index.html
+- Creamos el directorio de la página web y el index.html.
 
 ![image](https://github.com/christianjmx/imw_christian/blob/main/trim1/ut1/a3_Trabajo_con_Virtual_hosts/web%203/4.png)
 
@@ -112,11 +112,11 @@
 
 ![image](https://github.com/christianjmx/imw_christian/blob/main/trim1/ut1/a3_Trabajo_con_Virtual_hosts/web%203/5.png)
 
-- Comprobamos que la conficguración básica funciona.
+- Comprobamos que la configuración básica funciona.
 
 ![image](https://github.com/christianjmx/imw_christian/blob/main/trim1/ut1/a3_Trabajo_con_Virtual_hosts/web%203/6.png)
 
-- Encriptamos una contraseña con 'perl' y creamo el archivo .htpasswd, que guardará el usuario y la contraseña para acceder a la web.
+- Encriptamos una contraseña con 'perl' y creamos el archivo .htpasswd, que guardará el usuario y la contraseña para acceder a la web.
 
 ![image](https://github.com/christianjmx/imw_christian/blob/main/trim1/ut1/a3_Trabajo_con_Virtual_hosts/web%203/7.png)
 
@@ -124,7 +124,7 @@
 
 ![image](https://github.com/christianjmx/imw_christian/blob/main/trim1/ut1/a3_Trabajo_con_Virtual_hosts/web%203/8.png)
 
-- Recargamos el nginx y comprobamos que nos pide usuario/contraseña para cceder a la web.
+- Recargamos el nginx y comprobamos que nos pide usuario/contraseña para acceder a la web.
 
 ![image](https://github.com/christianjmx/imw_christian/blob/main/trim1/ut1/a3_Trabajo_con_Virtual_hosts/web%203/9.png)ç
 
